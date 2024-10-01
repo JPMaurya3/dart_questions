@@ -12,7 +12,7 @@ void main() {
     
     while (j <= 3) {
       // print stars in the same row
-      stdout.write("* ");
+      stdout.write("*");
       j++; // increment inner loop
     }
     
