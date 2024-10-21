@@ -15,3 +15,11 @@ void main() {
     i++;
   }
 }
+
+// output
+/*
+A 
+B C
+C D E
+D E F G
+*/
