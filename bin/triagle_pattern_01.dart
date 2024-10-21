@@ -13,3 +13,9 @@ void main() {
     i++;
   }
 }
+//output
+/*
+A 
+B B
+C C C
+*/
